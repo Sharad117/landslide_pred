@@ -1,0 +1,8 @@
+numpy
+pandas
+xgboost
+matplotlib
+scikit-learn
+jupyter
+streamlit
+firebase-admin
