@@ -7,3 +7,4 @@ jupyter
 streamlit
 firebase-admin
 streamlit-autorefresh
+python-dotenv
